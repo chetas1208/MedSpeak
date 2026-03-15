@@ -1,0 +1,4 @@
+[00:00-00:08] Patient: I have been more tired this week and I get dizzy when I stand up.
+[00:08-00:16] Doctor: We can order a blood test and then schedule a follow-up visit after the results come back.
+[00:16-00:23] Patient: Okay. Can you write down the next steps for me?
+[00:23-00:31] Doctor: Yes. We discussed a blood test and a follow-up visit. The date was not stated today.
